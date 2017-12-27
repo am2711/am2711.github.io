@@ -1,0 +1,12 @@
+body{
+	text-align: center;
+	color: white;
+	font-size: 2em;
+	background-image: url(https://www.digitalplatforms.co.za/wp-content/uploads/2015/11/Website-Design-Background.png);
+	background-size: 100%;
+}
+
+.links{
+	display: flex;
+	justify-content: center;
+}
