@@ -4,9 +4,20 @@ body{
 	font-size: 2em;
 	background-image: url(https://www.digitalplatforms.co.za/wp-content/uploads/2015/11/Website-Design-Background.png);
 	background-size: 100%;
+    font-family: 'Risque', cursive;
 }
 
 .links{
 	display: flex;
 	justify-content: center;
+}
+
+.link{
+	text-align: center;
+	margin-left: 5%;
+	margin-right: 5%;
+}
+
+a{
+	color: white;	
 }
